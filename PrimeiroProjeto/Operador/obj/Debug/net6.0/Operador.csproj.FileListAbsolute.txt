@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\bin\Debug\net6.0\Operador.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\bin\Debug\net6.0\Operador.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\bin\Debug\net6.0\Operador.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\bin\Debug\net6.0\Operador.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\bin\Debug\net6.0\Operador.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\refint\Operador.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\Operador.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Operador\obj\Debug\net6.0\ref\Operador.dll

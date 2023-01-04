@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\bin\Debug\net6.0\Conversao.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\bin\Debug\net6.0\Conversao.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\bin\Debug\net6.0\Conversao.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\bin\Debug\net6.0\Conversao.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\bin\Debug\net6.0\Conversao.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\refint\Conversao.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\Conversao.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Conversao\obj\Debug\net6.0\ref\Conversao.dll

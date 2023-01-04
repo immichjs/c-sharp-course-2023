@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\bin\Debug\net6.0\Atribuicao.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\bin\Debug\net6.0\Atribuicao.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\bin\Debug\net6.0\Atribuicao.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\bin\Debug\net6.0\Atribuicao.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\bin\Debug\net6.0\Atribuicao.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\refint\Atribuicao.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\Atribuicao.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Atribuicao\obj\Debug\net6.0\ref\Atribuicao.dll

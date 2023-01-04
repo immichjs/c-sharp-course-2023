@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\bin\Debug\net6.0\Saida.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\bin\Debug\net6.0\Saida.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\bin\Debug\net6.0\Saida.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\bin\Debug\net6.0\Saida.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\bin\Debug\net6.0\Saida.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\refint\Saida.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\Saida.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Saida\obj\Debug\net6.0\ref\Saida.dll

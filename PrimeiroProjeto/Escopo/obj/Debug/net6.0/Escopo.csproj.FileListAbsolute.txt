@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\bin\Debug\net6.0\Escopo.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\bin\Debug\net6.0\Escopo.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\bin\Debug\net6.0\Escopo.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\bin\Debug\net6.0\Escopo.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\bin\Debug\net6.0\Escopo.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\refint\Escopo.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\Escopo.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\PrimeiroProjeto\Escopo\obj\Debug\net6.0\ref\Escopo.dll
