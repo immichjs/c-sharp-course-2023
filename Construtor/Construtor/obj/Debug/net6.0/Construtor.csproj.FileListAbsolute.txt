@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\bin\Debug\net6.0\Construtor.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\bin\Debug\net6.0\Construtor.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\bin\Debug\net6.0\Construtor.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\bin\Debug\net6.0\Construtor.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\bin\Debug\net6.0\Construtor.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\refint\Construtor.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\Construtor.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\Construtor\Construtor\obj\Debug\net6.0\ref\Construtor.dll
