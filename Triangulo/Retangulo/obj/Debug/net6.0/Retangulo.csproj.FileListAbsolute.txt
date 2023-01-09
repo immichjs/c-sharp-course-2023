@@ -1,0 +1,15 @@
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\bin\Debug\net6.0\Retangulo.exe
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\bin\Debug\net6.0\Retangulo.deps.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\bin\Debug\net6.0\Retangulo.runtimeconfig.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\bin\Debug\net6.0\Retangulo.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\bin\Debug\net6.0\Retangulo.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.AssemblyReference.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfo.cs
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\refint\Retangulo.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\Retangulo.genruntimeconfig.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Retangulo\obj\Debug\net6.0\ref\Retangulo.dll

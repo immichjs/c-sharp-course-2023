@@ -1,0 +1,15 @@
+C:\Users\immic\source\repos\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.exe
+C:\Users\immic\source\repos\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.deps.json
+C:\Users\immic\source\repos\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.runtimeconfig.json
+C:\Users\immic\source\repos\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.dll
+C:\Users\immic\source\repos\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.pdb
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.csproj.AssemblyReference.cache
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfo.cs
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.dll
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\refint\Triangulo.dll
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.pdb
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.genruntimeconfig.cache
+C:\Users\immic\source\repos\Triangulo\Triangulo\obj\Debug\net6.0\ref\Triangulo.dll

@@ -1,0 +1,15 @@
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\bin\Debug\net6.0\Cotacao.exe
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\bin\Debug\net6.0\Cotacao.deps.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\bin\Debug\net6.0\Cotacao.runtimeconfig.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\bin\Debug\net6.0\Cotacao.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\bin\Debug\net6.0\Cotacao.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.csproj.AssemblyReference.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.AssemblyInfo.cs
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\refint\Cotacao.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\Cotacao.genruntimeconfig.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Cotacao\obj\Debug\net6.0\ref\Cotacao.dll

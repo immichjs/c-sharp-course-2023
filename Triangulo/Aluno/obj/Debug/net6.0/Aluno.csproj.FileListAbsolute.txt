@@ -1,0 +1,15 @@
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.csproj.AssemblyReference.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfo.cs
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\bin\Debug\net6.0\Aluno.exe
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\bin\Debug\net6.0\Aluno.deps.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\bin\Debug\net6.0\Aluno.runtimeconfig.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\bin\Debug\net6.0\Aluno.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\bin\Debug\net6.0\Aluno.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\refint\Aluno.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\Aluno.genruntimeconfig.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Aluno\obj\Debug\net6.0\ref\Aluno.dll

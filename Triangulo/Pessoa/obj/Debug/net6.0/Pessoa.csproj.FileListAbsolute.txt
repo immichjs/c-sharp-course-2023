@@ -1,0 +1,15 @@
+C:\Users\immic\source\repos\Triangulo\Pessoa\bin\Debug\net6.0\Pessoa.exe
+C:\Users\immic\source\repos\Triangulo\Pessoa\bin\Debug\net6.0\Pessoa.deps.json
+C:\Users\immic\source\repos\Triangulo\Pessoa\bin\Debug\net6.0\Pessoa.runtimeconfig.json
+C:\Users\immic\source\repos\Triangulo\Pessoa\bin\Debug\net6.0\Pessoa.dll
+C:\Users\immic\source\repos\Triangulo\Pessoa\bin\Debug\net6.0\Pessoa.pdb
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.csproj.AssemblyReference.cache
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.AssemblyInfo.cs
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.dll
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\refint\Pessoa.dll
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.pdb
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\Pessoa.genruntimeconfig.cache
+C:\Users\immic\source\repos\Triangulo\Pessoa\obj\Debug\net6.0\ref\Pessoa.dll

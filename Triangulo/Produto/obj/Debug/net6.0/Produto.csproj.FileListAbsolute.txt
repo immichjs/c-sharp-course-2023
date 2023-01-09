@@ -1,0 +1,15 @@
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\bin\Debug\net6.0\Produto.exe
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\bin\Debug\net6.0\Produto.deps.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\bin\Debug\net6.0\Produto.runtimeconfig.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\bin\Debug\net6.0\Produto.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\bin\Debug\net6.0\Produto.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.csproj.AssemblyReference.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.AssemblyInfo.cs
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\refint\Produto.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\Produto.genruntimeconfig.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Produto\obj\Debug\net6.0\ref\Produto.dll

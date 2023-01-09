@@ -1,0 +1,15 @@
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\bin\Debug\net6.0\Proletario.exe
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\bin\Debug\net6.0\Proletario.deps.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\bin\Debug\net6.0\Proletario.runtimeconfig.json
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\bin\Debug\net6.0\Proletario.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\bin\Debug\net6.0\Proletario.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.csproj.AssemblyReference.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.AssemblyInfo.cs
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\refint\Proletario.dll
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.pdb
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\Proletario.genruntimeconfig.cache
+C:\Users\immic\Desktop\2023\c-sharp-course-2023\Triangulo\Proletario\obj\Debug\net6.0\ref\Proletario.dll
