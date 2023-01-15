@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\bin\Debug\net6.0\Memoria.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\bin\Debug\net6.0\Memoria.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\bin\Debug\net6.0\Memoria.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\bin\Debug\net6.0\Memoria.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\bin\Debug\net6.0\Memoria.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\refint\Memoria.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\Memoria.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\ComportamentosArrayListas\obj\Debug\net6.0\ref\Memoria.dll

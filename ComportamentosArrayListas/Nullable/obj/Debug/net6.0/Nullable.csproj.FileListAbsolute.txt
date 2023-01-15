@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\bin\Debug\net6.0\Nullable.exe
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\bin\Debug\net6.0\Nullable.deps.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\bin\Debug\net6.0\Nullable.runtimeconfig.json
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\bin\Debug\net6.0\Nullable.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\bin\Debug\net6.0\Nullable.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\refint\Nullable.dll
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.pdb
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\Nullable.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\Estudos\c-sharp-course-2023\ComportamentosArrayListas\Nullable\obj\Debug\net6.0\ref\Nullable.dll

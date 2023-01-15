@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoria", "ComportamentosArrayListas\Memoria.csproj", "{73ABF038-33D4-4502-B2A3-7C59FB61ADD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable", "Nullable\Nullable.csproj", "{665F143D-9AE2-4D8D-AA80-C74C21A918CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73ABF038-33D4-4502-B2A3-7C59FB61ADD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73ABF038-33D4-4502-B2A3-7C59FB61ADD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73ABF038-33D4-4502-B2A3-7C59FB61ADD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73ABF038-33D4-4502-B2A3-7C59FB61ADD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665F143D-9AE2-4D8D-AA80-C74C21A918CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665F143D-9AE2-4D8D-AA80-C74C21A918CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665F143D-9AE2-4D8D-AA80-C74C21A918CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665F143D-9AE2-4D8D-AA80-C74C21A918CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4E5575-9031-4487-AC36-2CB0AAC6C8F0}
+	EndGlobalSection
+EndGlobal

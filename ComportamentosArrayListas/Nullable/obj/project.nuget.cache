@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WA1XMz6nl4OmomEKoAC/sEfcrFcl6h7SFQS1TkbEHjtvLiG/nBGb/VHt1kMIZhMTit0tbBCPM7l6HVgPP717Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Target N017\\Desktop\\Estudos\\c-sharp-course-2023\\ComportamentosArrayListas\\Nullable\\Nullable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Target N017\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Target N017\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Target N017\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Target N017\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
